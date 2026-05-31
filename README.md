@@ -67,8 +67,9 @@ Frontend engineer with **3+ years** delivering production-grade web applications
 
 <div align="center">
 
-![Amr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmrMustafa13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrMustafa13&layout=compact&theme=tokyonight&hide_border=true)
+![Followers](https://img.shields.io/github/followers/AmrMustafa13?style=for-the-badge&logo=github&label=Followers&color=0e75b6)
+![Repos](https://img.shields.io/badge/Public_Repos-44-0e75b6?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/github/stars/AmrMustafa13?style=for-the-badge&logo=github&label=Total%20Stars&color=0e75b6)
 
 </div>
 
