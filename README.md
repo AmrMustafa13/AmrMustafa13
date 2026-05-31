@@ -1,12 +1,8 @@
 <div align="center">
-
 <br/>
 
 # Amr Mustafa
-
 **Software Engineer · Full-Stack**
-
-Cairo, Egypt · [amrmustafa.dev](https://www.amrmustafa.dev) · [amrmostafa1311@gmail.com](mailto:amrmostafa1311@gmail.com)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-amrmustafa.dev-000?style=flat-square&logo=firefox&logoColor=white)](https://www.amrmustafa.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrmustafa13)
@@ -20,8 +16,6 @@ Cairo, Egypt · [amrmustafa.dev](https://www.amrmustafa.dev) · [amrmostafa1311@
 3+ years writing React and Next.js, working with remote teams in the UK and the US, and shipping features that stay in production. I handle the full stack when needed, but frontend is where I do my best work.
 
 Top-Rated on Upwork. I take deadlines seriously and don't disappear when things get hard. On the side, I run a YouTube channel where thousands of developers have leveled up it keeps me sharp at explaining things clearly.
-
-Currently exploring full-time opportunities. Find me at [amrmustafa.dev](https://amrmustafa.dev).
 
 - B.Sc. Computer Engineering, Mansoura University — GPA 3.7 / 4.0
 
@@ -41,29 +35,56 @@ Currently exploring full-time opportunities. Find me at [amrmustafa.dev](https:/
 
 ## Stack
 
-**Front-End**
+**Front-End:**
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-002E3B?style=flat-square&logo=nuxtdotjs&logoColor=00DC82)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Vue.js` `Nuxt.js` `Tailwind CSS` `Bootstrap` `Sass`
+**State Management:**
+![Pinia](https://img.shields.io/badge/Pinia_(VueJS)-FFD859?style=flat-square&logo=vuedotjs&logoColor=black)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand_(ReactJS)-000000?style=flat-square&logo=react&logoColor=white)
 
-**State Management**
+**Back-End:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
-`Pinia` `Redux Toolkit` `Zustand`
+**Databases & ORMs:**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
 
-**Back-End**
+**Platforms:**
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-`Node.js` `Express.js` `NestJS`
+**CMS:**
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=white)
 
-**Databases & ORMs**
+**Version Control:**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![BitBucket](https://img.shields.io/badge/BitBucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
 
-`PostgreSQL` `MongoDB` `Prisma` `TypeORM` `Sequelize` `Mongoose`
-
-**Platforms & CMS**
-
-`Supabase` `Firebase` `Sanity` `Strapi`
-
-**Tooling**
-
-`Git` `GitHub` `Bitbucket` `Cursor IDE` `Claude Code` `v0` `Lovable` `Bolt`
+**AI Tools:**
+![V0](https://img.shields.io/badge/V0-000000?style=flat-square&logo=vercel&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?style=flat-square&logoColor=white)
+![Bolt](https://img.shields.io/badge/Bolt-7C3AED?style=flat-square&logoColor=white)
+![Cursor IDE](https://img.shields.io/badge/Cursor_IDE-000000?style=flat-square&logo=cursor&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
 
