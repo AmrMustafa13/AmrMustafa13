@@ -21,18 +21,6 @@ Top-Rated on Upwork. I take deadlines seriously and don't disappear when things 
 
 ---
 
-## Experience
-
-| Company | Role | Highlights |
-|---|---|---|
-| **Funding Souq** | Frontend Engineer | 10+ production UI components · ~60% reduction in frontend bugs |
-| **TeamCoderz** | Software Engineer | Feature delivery on [wordy.me](https://wordy.me) · led code reviews |
-| **Backemono Media** | Full-Stack Developer | Internal tooling with Next.js + Supabase |
-| **CyberDefenders** | Associate Software Engineer | Vue.js → Next.js migration · 100K+ users · zero downtime |
-| **Algoriza** | Backend Developer | ~40% API response time improvement via MongoDB optimization |
-
----
-
 ## Stack
 
 **Front-End:**
