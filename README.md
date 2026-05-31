@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-Software engineer with **3+ years** delivering production-grade web applications across **fintech**, **cybersecurity**, and **media**. I work across the full stack — from building rich, performant UIs to architecting APIs and databases — and have repeatedly owned entire product lifecycles end-to-end as the sole engineer on remote teams.
+Software engineer with **3+ years** delivering production-grade web applications across **fintech**, **cybersecurity**, and **media**. I work across the full stack from building rich, performant UIs to architecting APIs and databases and have repeatedly owned entire product lifecycles end-to-end as the sole engineer on remote teams.
 
 - 🔭 Currently open to **mid-to-senior software engineering roles**
 - ⚡ Led a full **Vue.js → Next.js** platform migration at [CyberDefenders](https://cyberdefenders.org) — the #1 blue team training platform with **100K+ active users**, zero downtime
@@ -85,10 +85,10 @@ Software engineer with **3+ years** delivering production-grade web applications
 | Company | Role | Impact |
 |---|---|---|
 | **Funding Souq** | Frontend Engineer | Delivered 10+ production UI components, reduced frontend bugs by ~60% |
-| **CyberDefenders** | Associate Software Engineer | Led Vue.js → Next.js migration for 100K+ users, zero downtime |
-| **Algoriza** | Backend Developer | Reduced API response time by ~40% via MongoDB query optimization |
 | **TeamCoderz** | Software Engineer | Built features for [wordy.me](https://wordy.me), led code reviews |
 | **Backemono Media** | Full-Stack Developer | Built internal tools with Next.js + Supabase |
+| **CyberDefenders** | Associate Software Engineer | Led Vue.js → Next.js migration for 100K+ users, zero downtime |
+| **Algoriza** | Backend Developer | Reduced API response time by ~40% via MongoDB query optimization |
 
 ---
 
