@@ -2,7 +2,7 @@
 
 # Hi, I'm Amr Mustafa 👋
 
-### Frontend Engineer · React · Next.js · Vue.js
+### Software Engineer · Full-Stack
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-amrmustafa.dev-FF5701?style=for-the-badge&logo=firefox&logoColor=white)](https://www.amrmustafa.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amrmustafa13-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrmustafa13)
@@ -15,9 +15,9 @@
 
 ## 🚀 About Me
 
-Frontend engineer with **3+ years** delivering production-grade web applications across **fintech**, **cybersecurity**, and **media**. I've worked as the sole frontend engineer on cross-functional remote teams, owning entire frontend lifecycles end-to-end.
+Software engineer with **3+ years** delivering production-grade web applications across **fintech**, **cybersecurity**, and **media**. I work across the full stack — from building rich, performant UIs to architecting APIs and databases — and have repeatedly owned entire product lifecycles end-to-end as the sole engineer on remote teams.
 
-- 🔭 Currently open to **mid-to-senior frontend roles**
+- 🔭 Currently open to **mid-to-senior software engineering roles**
 - ⚡ Led a full **Vue.js → Next.js** platform migration at [CyberDefenders](https://cyberdefenders.org) — the #1 blue team training platform with **100K+ active users**, zero downtime
 - 📺 Content creator at **Keep Coding** — **3,500+ subscribers**, **85K+ views**
 - 🎓 B.Sc. Computer Engineering, Mansoura University — **GPA 3.7/4.0**
